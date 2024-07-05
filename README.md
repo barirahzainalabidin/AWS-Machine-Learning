@@ -1,7 +1,14 @@
 # AWS-Machine-Learning
 
 
-AWS Canvas - https://aws.amazon.com/sagemaker/canvas/
+# AWS Canvas
+
+
+ - https://aws.amazon.com/sagemaker/canvas/
+
+
+
+# Dataset 
 
 
 1. Instacart Market Basket Analysis - https://www.kaggle.com/competitions/instacart-market-basket-analysis
@@ -63,3 +70,10 @@ AWS Canvas - https://aws.amazon.com/sagemaker/canvas/
 29. Rohlik Orders Forecasting Challenge - https://www.kaggle.com/competitions/rohlik-orders-forecasting-challenge
 
 30. Contradictory, My Dear Watson - https://www.kaggle.com/competitions/contradictory-my-dear-watson
+
+
+
+
+# Solution Video 
+
+
