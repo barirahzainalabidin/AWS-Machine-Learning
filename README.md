@@ -4,27 +4,29 @@
 AWS Canvas - https://aws.amazon.com/sagemaker/canvas/
 
 
-1. RSNA 2024 Lumbar Spine Degenerative Classification - https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/data
+1. Instacart Market Basket Analysis - https://www.kaggle.com/competitions/instacart-market-basket-analysis
 
-2. AI Mathematical Olympiad - Progress Prize 1 - https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize/data
+2 . RSNA 2024 Lumbar Spine Degenerative Classification - https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/data
 
-3. Classification with an Academic Success Dataset - https://www.kaggle.com/competitions/playground-series-s4e6
+3. AI Mathematical Olympiad - Progress Prize 1 - https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize/data
 
-4. Learning Agency Lab - Automated Essay Scoring 2.0 - https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2/overview
+4. Classification with an Academic Success Dataset - https://www.kaggle.com/competitions/playground-series-s4e6
 
-5. BirdCLEF 2024 - https://www.kaggle.com/competitions/birdclef-2024/overview
+5. Learning Agency Lab - Automated Essay Scoring 2.0 - https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2/overview
 
-6. Multi-Class Prediction of Obesity Risk - https://www.kaggle.com/competitions/playground-series-s4e2/data?select=train.csv
+6. BirdCLEF 2024 - https://www.kaggle.com/competitions/birdclef-2024/overview
 
-7. Binary Classification with a Bank Churn Dataset - https://www.kaggle.com/competitions/playground-series-s4e1/data?select=test.csv
+7. Multi-Class Prediction of Obesity Risk - https://www.kaggle.com/competitions/playground-series-s4e2/data?select=train.csv
 
-8. Home Credit - Credit Risk Model Stability - https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/data?select=feature_definitions.csv
+8. Binary Classification with a Bank Churn Dataset - https://www.kaggle.com/competitions/playground-series-s4e1/data?select=test.csv
 
-9. Toxic Comment Classification Challenge - https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/overview
+9. Home Credit - Credit Risk Model Stability - https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/data?select=feature_definitions.csv
 
-10. American Express - Default Prediction - https://www.kaggle.com/competitions/amex-default-prediction
+10. Toxic Comment Classification Challenge - https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/overview
 
-11. House Prices - Advanced Regression Techniques - https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
+11. American Express - Default Prediction - https://www.kaggle.com/competitions/amex-default-prediction
+
+12. House Prices - Advanced Regression Techniques - https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
 
 13. M5 Forecasting - Accuracy - https://www.kaggle.com/competitions/m5-forecasting-accuracy/data?select=sales_train_evaluation.csv
 
